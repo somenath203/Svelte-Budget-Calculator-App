@@ -4,7 +4,7 @@ This is an Budget Calculator Application created with the help of Svelte.js wher
 
 <br />
 
-This app also has the feature of local storage means if the user refreshes thr page after the countdown has started or closes the website and then, again repoens it, then the countdown will continue as it.
+This app also has the feature of local storage means if the user refreshes the page after adding some expenses or closes the website and then, again reopens it, then the expenses will remain as it.
 
 ## Get started
 
