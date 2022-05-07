@@ -11,7 +11,7 @@ This app also has the feature of local storage means if the user refreshes thr p
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd Svelte-Expense-Tracker-App
 npm install
 ```
 
