@@ -1,6 +1,6 @@
-# Svelte-Expense-Tracker-App
+# Svelte-Budget-Calculator-App
 
-This is an Expense Tracker Application created with the help of Svelte.js where the user can add all the expenses he/she wants to track and the total amount of all the expenses will be calculated dynamically. Here, in this app, the user also has the option to edit and delete a particular expense or delete all the expense altogether at once.
+This is an Budget Calculator Application created with the help of Svelte.js where the user can add all the expenses he/she wants to track and the total amount of all the expenses will be calculated dynamically. Here, in this app, the user also has the option to edit and delete a particular expense or delete all the expense altogether at once.
 
 <br />
 
@@ -11,7 +11,7 @@ This app also has the feature of local storage means if the user refreshes thr p
 Install the dependencies...
 
 ```bash
-cd Svelte-Expense-Tracker-App
+cd Svelte-Budget-Calculator-App
 npm install
 ```
 
